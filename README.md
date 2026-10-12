@@ -173,7 +173,7 @@ Before this design I ran an exploration that used market values directly:
 The notebooks are in [`notebooks/`](notebooks/):
 - [`earlier_research.ipynb`](notebooks/earlier_research.ipynb): the source linking, per-90 metrics used by this study, and
   the earlier price-based exploration that I replaced with the design above.
-- The under-23 scouting study itself (role metrics, selection, outcomes, goalkeepers).
+- [`u23_scouting_3_0.ipynb`](notebooks/u23_scouting_3_0.ipynb): the under-23 scouting study itself (role metrics, selection, outcomes, goalkeepers).
 
 ## Data attribution
 
